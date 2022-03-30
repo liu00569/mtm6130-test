@@ -1,0 +1,33 @@
+/* google fonts */
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+}
+
+/* icon fonts */
+h2 i{
+    color: red;
+    font-size: 4rem;
+    /* icons are also fonts */
+}
+
+/* responsive images */
+.wrapper{
+    background-color: #ccc;
+    width: 500px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+/* google map embed */
+.map iframe{
+    border: 0;
+    width: 600px;
+    height: 450px;
+}
